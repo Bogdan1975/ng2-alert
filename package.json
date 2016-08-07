@@ -1,0 +1,28 @@
+{
+  "name": "ng2-alert",
+  "version": "0.0.0",
+  "description": "Angular 2 alert component",
+  "author": "Bogdan Shapoval (targus) <it.targus@gmail.com>",
+  "main": "alert.component.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdan1975/ng2-alert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bogdan1975/ng2-alert/issues"
+  },
+  "keywords": [
+    "angular2",
+    "angular 2",
+    "ng2",
+    "alert",
+    "ng2-alert",
+    "angular2-alert",
+    "component"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bogdan1975/ng2-alert#readme"
+}
